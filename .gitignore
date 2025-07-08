@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore VitePress build output and cache
+docs/.vitepress/dist
+docs/.vitepress/cache
