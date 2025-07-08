@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "lavaday1225"
+  name: "Jerry ジェリー"
   text: "Golang Backend Developer"
   tagline: A playground in Vitepress
   actions:
