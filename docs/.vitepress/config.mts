@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 import {  withSidebar } from 'vitepress-sidebar';
 
 const vitePressOptions = {
-  base : '/lavaday1225/',
   title: "lavaday1225",
   description: "A playground in Vitepress",
   themeConfig: {
