@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: Tech Blogs
       link: /tech-blogs
+    - theme: brand
+      text: Notes 
+      link: /notes
     - theme: alt
       text: Lifes 
       link: /lifes
