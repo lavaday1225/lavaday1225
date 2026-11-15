@@ -24,6 +24,5 @@ features:
   - title: "🏐 Volleyball Player"
     details: I play volleyball regularly and enjoy both the sport and the community it brings.
   - title: "🍳 Cooking Adventures"
-    details: Cooking is my creative outlet—experimenting with new recipes and flavors is always exciting!
+    details: Cooking is my creative outlet — from homemade Greek yogurt to weekend experiments in a small Tokyo kitchen.
 ---
-
